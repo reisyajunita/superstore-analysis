@@ -1,8 +1,7 @@
 -- ============================================================
 -- 06_BQ4_discount_threshold.sql
--- BQ4   : Berapa batas presentase diskon maksimal (threshold) 
---         yang masih aman diberikan tanpa mengorbankan 
---         profitabilitas (kerugian)?
+-- BQ4   : Berapa batas persentase diskon maksimal (threshold) 
+--         yang masih menghasilkan profit positif berdasarkan data?
 -- Tujuan: Melihat batas aman pemberian diskon tanpa 
 --         mengorbankan kerugian.
 -- ============================================================

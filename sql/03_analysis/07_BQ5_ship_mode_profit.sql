@@ -1,7 +1,7 @@
 -- ============================================================
 -- 07_BQ5_ship_mode_profit.sql
--- BQ5   : Apakah metode pengiriman tertentu memiliki pengaruh 
---         terhadap tingkat profitabilitas?
+-- BQ5   : Apakah terdapat perbedaan profitabilitas antar
+--         metode pengiriman?
 -- Tujuan: Mengetahui hubungan antara metode pengiriman dengan
 --         profit yang didapat
 -- ============================================================

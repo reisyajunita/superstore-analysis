@@ -1,8 +1,8 @@
 -- ============================================================
 -- 04_BQ2_category_loss.sql
--- BQ2   : Kategori dan sub kategori apa saja yang paling 
---         banyak menghasilkan kerugian (profit minus) 
---         akibat strategi pemberian diskon?
+-- BQ2   : Kategori dan sub kategori apa saja yang paling banyak 
+--         menghasilkan kerugian (profit negatif) akibat strategi 
+--         pemberian diskon?
 -- Tujuan: Melihat kategori dan sub kategori mana yang
 --         memberikan kerugian akibat pemberian diskon
 -- ============================================================

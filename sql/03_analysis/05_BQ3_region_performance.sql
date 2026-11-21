@@ -1,8 +1,7 @@
 -- ============================================================
 -- 05_BQ3_region_performance.sql
 -- BQ3   : Apakah wilayah geografis dengan jumlah penjualan 
---         tertinggi selalu berbanding lurus dengan profit 
---         yang tinggi?
+--         tertinggi selalu menghasilkan profit yang lebih tinggi?
 -- Tujuan: Melihat performa penjualan dengan profit yang
 --         didapat berdasarkan wilayah geografis.
 -- ============================================================
